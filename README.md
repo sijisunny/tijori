@@ -1,2 +1,2 @@
 # tijori
-तिजोरी - Program to Deposit Files Safe and Secure
+तिजोरी - Program to Trasnfer files fast & Secure
